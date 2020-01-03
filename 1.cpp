@@ -305,7 +305,7 @@ int main()
 	start2->next=NULL;
 	start->a=1;
 	start->next=NULL;
-	int i=2;
+	int i=2
 	list* firstcopy=start;
 	//cout<<(*firstcopy)->a<<endl;
 	//list *temp;
